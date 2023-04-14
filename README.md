@@ -29,6 +29,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-orig
 
 
 ## 🦆 [Sobre mim](https://otavio-valadao.netlify.app/home)
+  
+  Sou um profissional altamente criativo, empático e colaborativo, com um forte senso crítico. Possuo a habilidade de trabalhar de forma eficaz em equipe, entendendo as necessidades e expectativas de cada membro do grupo para alcançar objetivos comuns. Minha capacidade de pensar fora da caixa me permite criar soluções inovadoras para problemas complexos, enquanto minha empatia me permite entender as necessidades e perspectivas dos outros. Combinando essas habilidades com meu senso crítico, sou capaz de oferecer soluções inteligentes e baseadas em fatos, com o objetivo de alcançar os melhores resultados para a equipe e a empresa.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/66280516/231927952-7980953b-ba52-4f53-8ccb-6402cb4cf0c9.png)
 
