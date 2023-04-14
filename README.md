@@ -8,7 +8,7 @@
 </div>
 <br><br>
 
-## 🛠 &nbsp;Tecnologias que domino
+## 🛠 &nbsp;Tecnologias que domino:
 
 <div>
 <img align="center" alt="JAVA"  height="60" width="80"
